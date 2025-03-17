@@ -1,0 +1,12 @@
+g='there may be times when you want to'
+kelimeler=g.split('.')
+def hesapla(kelimeler):
+  aout=[]
+  sayac=0
+  for kelime in kelimeler:
+    sayac+=1
+    aout.append(len(kelime))
+    return aout
+    print(hesapla(kelimeler))
+    b=hesapla(kelimeler)
+    print(b)
