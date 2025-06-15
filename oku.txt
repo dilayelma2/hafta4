@@ -1,0 +1,1 @@
+ Bir cümleyi kelimelere ayır, Her kelimenin kaç harf olduğunu hesapla ,Uzunlukları bir listeye koy ve sonucu döndür
